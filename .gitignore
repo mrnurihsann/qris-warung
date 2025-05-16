@@ -40,9 +40,9 @@ nb-configuration.xml
 .env
 
 # Vue.js frontend build artifacts & dependencies
-src/main/frontend/Vue/node_modules/
-src/main/frontend/Vue/dist/
-src/main/frontend/Vue/.env
+src/main/frontend/transaction-qr-frontend/node_modules/
+src/main/frontend/transaction-qr-frontend/dist/
+src/main/frontend/transaction-qr-frontend/.env
 
 # Plugin directory
 /.quarkus/cli/plugins/

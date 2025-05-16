@@ -39,6 +39,11 @@ nb-configuration.xml
 # Local environment
 .env
 
+# Vue.js frontend build artifacts & dependencies
+src/main/frontend/Vue/node_modules/
+src/main/frontend/Vue/dist/
+src/main/frontend/Vue/.env
+
 # Plugin directory
 /.quarkus/cli/plugins/
 # TLS Certificates
